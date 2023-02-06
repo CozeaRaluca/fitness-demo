@@ -1,0 +1,28 @@
+{
+  "name": "fitness",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "astro": "^2.0.1"
+  },
+  "keywords": [
+    "fitness",
+    "pt",
+    "training",
+    "personal training",
+    "workout"
+  ],
+  "description": "Demo project for Fitness businesses",
+  "dependencies": {
+    "@astrojs/image": "^0.13.0",
+    "@astrojs/tailwind": "^3.0.0",
+    "tailwindcss": "^3.2.4"
+  }
+}
